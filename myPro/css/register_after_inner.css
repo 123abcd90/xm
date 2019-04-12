@@ -1,0 +1,96 @@
+/*中间部分*/
+#reg{
+    width:100%;background: #eee;position: relative;height:548px;overflow: hidden;
+}
+.reg_inner{
+   width:1000px;height: 478px;
+   margin:0 auto;
+  
+}
+.reg_1{
+   text-align: center;
+   background: #fff;
+   margin-top: 20px;
+   height: 178px;
+   
+}
+.reg_1_success {
+   text-align:left;
+   display: inline-block;width:313.125px;height:178px;
+}
+.reg_1_success div:first-child{
+   margin-right: 20px;
+   background-image: url("../xm/success-style-4_1a81f82.png");
+   width: 62px;
+   height: 61px;
+   background-size: 100%;
+   display: inline-block;
+   background-repeat: no-repeat;
+  margin-top:50px;vertical-align: middle;
+}
+.reg_1_success div:last-child{
+  /* position: absolute;
+  top:-51px;left:60px; */
+  float: right;
+   width:231.125px;
+   height: 58px;
+   margin: 52px 0;
+   
+}
+.reg_1_success div:last-child h1{
+   font-size: 20px;
+   color: #333;
+   line-height: 1.5;
+  width:231.125px;
+  height:30px;
+  font-weight: 400;
+
+}
+.reg_1_success div:last-child ul{
+   height:28px;
+   list-style: none;
+
+}
+.reg_1_success div:last-child ul li{
+   
+   
+   float:left;
+  
+
+}
+.reg_1_success div:last-child ul li:nth-child(2) a{
+ 
+   border-left: 1px solid #e0e4ed;
+   border-right: 1px solid #e0e4ed;
+   padding: 0 8px;
+   margin:0px 10px; 
+   
+   
+
+}
+.reg_1_success div:last-child ul li a{
+   height: 14px;
+  display: inline-block;
+   font-size: 14px;
+   color: #4E99E6;
+   display: inline-block;
+   vertical-align: middle;
+   text-decoration: none;
+  
+
+}
+.reg_1_success div:last-child ul li a:nth-child(2){
+  margin-top: 2px;
+  
+
+}
+.reg_2{
+   margin-bottom: 50px;
+   height: 280px;
+   margin-top: 20px;
+   padding-left: 554px;
+   color: #fff;
+   text-align: left;
+   background: url("../xm/xw-pic-banner_21e8070.png") no-repeat center;
+
+}

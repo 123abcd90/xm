@@ -1,0 +1,125 @@
+/*尾部三个div*/
+.WB{
+    width:100%;
+    height:145px;
+    background: #fff;
+    padding: 47px 0 27px;
+ }
+ .wb{
+    width:1000px;
+    height:117px;margin:0 auto;
+    border-bottom: 1px solid #f0f0f0;
+    padding-bottom: 27px;position:relative;
+ }
+ .wb a{
+    text-decoration:none;
+ }
+ .wb li{
+  list-style:none;
+ }
+ .wb_left{
+    width:245px;
+    height:110px;
+    position:absolute;
+    top:-20px;left:-55px;
+ }
+ .wb_left ul{float:left;}
+ .wb_left ul li{
+    margin-left:59px;
+    margin-top:27px;
+    }
+ .wb_left ul li a p{
+    font-size: 14px;
+    color:#333; 
+ }
+ .wb_middle{
+    width: 354px;
+    height: 120px;
+    border-left: 1px solid #f0f0f0;
+    border-right: 1px solid #f0f0f0;
+    text-align: center;
+    position:absolute;
+    top:0px;
+    left:310px;
+ }
+ .wb_middle img{
+    width:50px;
+    height:45px;
+ }
+ .wb_middle h2{
+    width:352px;
+    font-size: 40px;
+    letter-spacing: -1px;
+    font-weight: 200;
+    height: 48px;
+    line-height: 48px;
+    text-align: center;
+    /* font-family: HelveticaNeue-Light,HelveticaRe,"Helvetica Neue","Microsoft YaHei",Arial,sans-serif; */
+    color:#333;
+ }
+ .wb_right{
+    width:361.125px;
+    height:117px;
+    position:absolute;
+    top:5px;
+    right:-10px;
+ }
+ .wb_right ul li{float:right;padding-right:8px;}
+ .wb_right img{
+    display:block;
+    width: 98px;
+    height: 98px;
+}
+.wb_right p{
+    width: 98px;
+    height: 19px;
+    font-size: 14px;
+    color: #333;
+}
+/*最下面四个图片到最后的内容*/
+.footer{
+    width:100%;
+    height:98px;
+    background: #fff;
+    color: #999;
+    padding-bottom: 30px;font-size: 12px;
+}
+.footer_inner{
+    width: 1000px;
+    margin: 0 auto;
+}
+.sztp{/*四张图片*/
+    height:25px;
+    margin-bottom:26px;text-align: center;
+}
+.sztp a img{
+    width:66px;
+    height:25px;
+    margin-right: 16px;
+    transition: none;
+    border-radius: 12.5px;
+}
+.footer_1{
+    height:20px;
+}
+.footer_1 p{
+    width:821.594px;float:left;
+}
+.footer_1 span {
+    display:inline-block;
+  
+}
+.footer_1 span img{
+    width:20px;margin-left: 46px;margin-right:4px;
+}
+.footer_1 a{
+    text-decoration:none;font-size: 12px; color: #999;float:right;
+}
+.s{
+    clear:both;
+}
+.footer_2a{
+    margin-top:10px;
+    height:12px;
+    text-align: center;
+}
